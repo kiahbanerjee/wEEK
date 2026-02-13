@@ -7,7 +7,6 @@ h1{
     color: navy;
    background-color: white;
    border-radius: 10px;
-   filter: blur(20px);
    border: black 0.5 px;
 }
 
