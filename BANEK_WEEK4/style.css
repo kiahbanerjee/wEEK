@@ -7,5 +7,6 @@ body{
     color: navy;
    background-color: white;
    border-radius: 10px;
+   filter: blur(20px);
 }
 
