@@ -6,5 +6,6 @@ body{
 .h1{
     color: navy;
    background-color: white;
+   border-radius: 10px;
 }
 
